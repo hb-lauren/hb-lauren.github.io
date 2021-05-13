@@ -1,0 +1,74 @@
+#nav {
+    background-color: #91c788;
+}
+
+#bday-let {
+    background-color: #52734d;
+}
+
+/* Text styling */
+
+#navlink {
+    font-family: 'KoHo', sans-serif;
+    font-size: 2rem;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+#letter {
+    font-family: 'KoHo', sans-serif;
+    font-size: 2rem;
+    line-height: 2;
+    font-weight: 400;
+    color: #000000;
+}
+
+
+h1 {
+    font-family: 'KoHo', sans-serif;
+
+}
+
+h1.hb {
+    font-size: 4rem;
+    line-height: 1.5;
+    font-weight: 600;
+}
+
+h1.lt {
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 600;
+}
+
+
+p {
+    font-family: 'KoHo', sans-serif;
+    font-size: 2rem;
+    line-height: 1.5;
+    font-weight: 300;
+}
+
+body {
+    background-color: #feffde;
+}
+
+/* Image handling */
+a.envelop {
+    font-size: 3rem;
+}
+
+img {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.img-fluid {
+    max-width: 100%;
+    max-height: 80%
+}
+
+.picborder {
+    background-color: #feffde;
+}
